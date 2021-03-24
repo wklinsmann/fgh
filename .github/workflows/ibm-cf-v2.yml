@@ -1,5 +1,5 @@
 
-name: IBM Cloud Foundry - V2Ray
+name: IBM Cloud Foundry - wklin
 
 env:
   IBM_CF_API: https://api.eu-gb.cf.cloud.ibm.com
